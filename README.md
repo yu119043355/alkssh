@@ -24,7 +24,7 @@
     git clone https://github.com/SK2-Angel/alkssh.git
     
     2.安服务所需要的模块
-    pip install django==2.0.5 kubernetes==12.0.0 channels==2.0.2
+    pip3 install django==2.0.5 kubernetes==12.0.0 channels==2.0.2
     
     3.将集群的权限文件kubelet.conf放置到/root/kubernetes.yaml,以至于组件可以正常的访问k8s集群
     cp -rp /etc/kubernetes/kubelet.conf /root/kubernetes.yaml
@@ -60,11 +60,3 @@
 <h3>结尾</h3>
   
   此开源组件除了docker也可部署在宿主机和kubernetes中，后续会更新kubernetes的部署方法，如果有任何疑问或者发现了BUG，可以提交问题，我看到第一时间会回复，运维开发是将来的发展趋势，自动化运维已经满足不了部分需求，谢谢大家的支持！！
-
-
-
-
-
-
- 
- 

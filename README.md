@@ -60,15 +60,6 @@
 <h3>结尾</h3>
   
   此开源组件除了docker也可部署在宿主机和kubernetes中，后续会更新kubernetes的部署方法，如果有任何疑问或者发现了BUG，可以提交问题，我看到第一时间会回复，运维开发是将来的发展趋势，自动化运维已经满足不了部分需求，谢谢大家的支持！！
-<h3>博客连接:</h3> https://blog.csdn.net/qq_42647772/article/details/111663376
-  
-  
-  
-  
-  
-  <h4>作者微信,有什么问题可以加我微信问,也可以探讨运维开发的奥妙,谢谢</h4>
-  
-  <img src="https://user-images.githubusercontent.com/49671782/112968052-79c82a00-917e-11eb-8b1a-b85f7ef21328.png" width="400" height="400" /><br/>
 
 
 
